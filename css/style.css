@@ -16,3 +16,20 @@
     padding-left: 70px;
     padding-top: 70px;
 }
+
+.contenitore{
+    width: 1200px;
+    margin: auto;
+}
+
+.titolo{
+    margin-top: 30px;
+}
+
+.gray{
+    color: rgb(112, 107, 107);
+}
+
+.blue{
+    color: rgb(4, 165, 246);
+}
