@@ -51,7 +51,28 @@
     margin-bottom: 40px;
 }
 
-.tabella{
-    width: 100%;
+
+
+
+.tabella{  
     text-align: left;
+    border-collapse: collapse;  
 }
+
+.text{
+    width: 50%;
+}
+
+.row_head{
+    background-color: rgb(31, 74, 168);
+    color: white;  
+}
+
+.row_lightblue{
+    background-color: lightblue;
+}
+
+
+
+
+
