@@ -37,3 +37,12 @@
 .descrizione{
     font-size: 12px;
 }
+
+.paragrafo{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.yellow{
+    background-color: yellow;
+}
