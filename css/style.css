@@ -50,3 +50,8 @@
 .lista_ordinata{
     margin-bottom: 40px;
 }
+
+.tabella{
+    width: 100%;
+    text-align: left;
+}
