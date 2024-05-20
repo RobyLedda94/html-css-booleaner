@@ -78,6 +78,18 @@
     width: 300px;
     height: 150px;
     margin: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.grafico{
+    background-image: url(../img/graph.jpg);
 }
 
 
