@@ -1,0 +1,102 @@
+
+/* bonus */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.intestazione{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(41, 188, 237);
+    background-image: url(../img/pattern.png);
+}
+
+.logo{
+    width: 20%;
+    padding-left: 70px;
+    padding-top: 70px;
+}
+
+.contenitore{
+    width: 1200px;
+    margin: auto;
+    padding: 30px;
+}
+
+.titolo{
+    margin-top: 30px;
+}
+
+.gray{
+    color: rgb(112, 107, 107);
+}
+
+.blue{
+    color: rgb(4, 165, 246);
+}
+
+.descrizione{
+    font-size: 12px;
+}
+
+.paragrafo{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.lista_ordinata{
+    margin-bottom: 40px;
+}
+
+
+
+
+.tabella{  
+    text-align: left;
+    border-collapse: collapse;  
+}
+
+.text{
+    width: 50%;
+}
+
+.row_head{
+    background-color: rgb(31, 74, 168);
+    color: white;  
+}
+
+.row_lightblue{
+    background-color: lightblue;
+}
+
+
+.square{
+    width: 300px;
+    height: 150px;
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.grafico{
+    background-image: url(../img/graph.jpg);
+}
+
+
